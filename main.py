@@ -80,7 +80,7 @@ class MainClass:
             CommentTargetedPosts().get_info(sessions=self.sessions)
         elif selected == 3:
             IntractExplore().get_info(sessions=self.sessions)
-        elif selected == 5:
+        elif selected == 4:
             GetPostLink().get_info(sessions=self.sessions)
         else:
             exit()
