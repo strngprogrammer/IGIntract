@@ -4,7 +4,6 @@ from lib.colors import *
 from lib.logo import print_logo,clear,enter_to_exit
 from lib.login import *
 from lib.funcs import *
-from instagrapi import Client
 class WatchLikeStories():
 
     def __init__(self) -> None:
@@ -18,8 +17,6 @@ class WatchLikeStories():
         self.like = False
 
         self.all_users = []
-        self.cls = Client()
-
 
     def get_target(self):
 
