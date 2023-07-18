@@ -14,17 +14,11 @@ IGIntract is a Python bot designed to automate interactions on Instagram. It pro
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository `git clone https://github.com/strngprogrammer/IGIntract.git`
 
-'git clone https://github.com/strngprogrammer/IGIntract.git'
+2. Navigate to the project directory `cd IGIntract`
 
-2. Navigate to the project directory:
-
-'cd IGIntract'
-
-3. Install the required dependencies:
-
-pip install -r requirements.txt
+3. Install the required dependencies `pip install -r requirements.txt`
 
 ## Contributing
 
