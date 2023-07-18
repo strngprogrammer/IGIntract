@@ -26,4 +26,4 @@ Contributions are welcome! If you find any issues or have suggestions for new fe
 
 ## License
 
-[MIT License](https://opensource.org/licenses/MIT)
+[MIT License](LICENSE)
