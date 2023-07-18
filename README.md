@@ -20,6 +20,10 @@ IGIntract is a Python bot designed to automate interactions on Instagram. It pro
 
 3. Install the required dependencies `pip install -r requirements.txt`
 
+## Screenshots
+
+![igintract](screenshots/igintract.PNG)
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for new features, please open an issue or submit a pull request on the GitHub repository.
