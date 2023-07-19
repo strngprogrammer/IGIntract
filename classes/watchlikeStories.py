@@ -104,8 +104,7 @@ class WatchLikeStories():
         self.sleep = int(input("[ + ] Sleep ( 35 - 60 ) : "))
 
    
-        sendlike = int(lightcyan+input("[ 1 ] Like Story\n[ 2 ] No Like\n==>"))
-
+        sendlike = int(input("[ 1 ] Like Story\n[ 2 ] No Like\n==>"))
         if sendlike == 1:
             self.like = True
         else:
