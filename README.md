@@ -31,3 +31,7 @@ Contributions are welcome! If you find any issues or have suggestions for new fe
 ## License
 
 [MIT License](LICENSE)
+
+<h3 align="center">Visitors Counts👀</h3>
+<a href="https://github.com/strngprogrammer/IGIntract"><img alt="Cute Count" 
+src="https://count.getloli.com/get/@IGIntract?theme=rule34" /></a>
